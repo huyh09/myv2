@@ -1,11 +1,11 @@
 {
-    "name": "MyV2",
-    "description": "Deploy V2ws on HK.",
-    "keywords": ["V2Ray"],
+    "name": "MyV2WS",
+    "description": "Deploy V2WS on HK.",
+    "keywords": ["V2WS"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "c882bd0b-6214-4d73-a912-95de43191c9f"
         },
         "AID": {
             "description": "AlterID",
